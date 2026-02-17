@@ -70,7 +70,8 @@
             "pt-BR": "Carro Esquimó",
             "eo-ZZ": "Motorsledoformaj Doĝemoj",
             "ca-ES": "Motos de neu de xoc",
-            "fi-FI": "Moottorikelkat"
+            "fi-FI": "Moottorikelkat",
+            "da-DK": "Snescooter Radiobiler"
         },
         "description": {
             "en-GB": "Guests slide around in snowmobile-shaped vehicles that they freely control",
@@ -89,7 +90,8 @@
             "pt-BR": "Passageiros deslizam por aí em motos de neve pilotáveis",
             "eo-ZZ": "Gastoj glitas en motorsledoformaj veturiloj, kiujn ili stiras libere",
             "ca-ES": "Els passatgers condueixen vehicles en forma de motos de neu.",
-            "fi-FI": "Matkustajat kulkevat itse ajamissaan moottorikelkan muotoisissa ilmatyynyaluksissa"
+            "fi-FI": "Matkustajat kulkevat itse ajamissaan moottorikelkan muotoisissa ilmatyynyaluksissa",
+            "da-DK": "Gæster glider rundt i snescooter‑formede køretøjer, som de frit kan styre"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -108,7 +110,8 @@
             "pt-BR": "1 pessoa por carro",
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
-            "fi-FI": "1 matkustaja per ajoneuvo"
+            "fi-FI": "1 matkustaja per ajoneuvo",
+            "da-DK": "1 person per vogn"
         }
     }
 }
